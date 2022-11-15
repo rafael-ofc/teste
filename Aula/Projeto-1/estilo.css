@@ -1,0 +1,27 @@
+#titulo, .tt { 
+    color: red; 
+    font-size: 50px;
+    background-color: #24F921
+}
+
+p {
+    border: 3px dashed blue;
+}
+
+ul li {
+    font-weight: bold; 
+    color:purple;
+}
+
+div {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    border: 15px solid black;
+
+}
+
+#titulo {
+    border: 6px solid black;
+}
